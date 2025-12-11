@@ -37,9 +37,9 @@ Ensure you have the following installed:
 > Developed by *Kwon Yisae*
 
 ## Code Fencing example
-```
-if (isAwesome) {
+```Python
+if (isAwesome):
 return true
-}
 ```
+
 
